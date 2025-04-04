@@ -1,2 +1,2 @@
-# linnq_-bundle
+# linnq_bundle
 hot update linnq app
